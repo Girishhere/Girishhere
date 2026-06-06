@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="YOUR_AVATAR_IMAGE_LINK" width="150" height="150" alt="Profile Avatar" style="border-radius: 50%;">
-
+<img src="tanjiro.gif" width="150" height="150" alt="Profile Avatar" style="border-radius: 50%;">
   <h1>Hi 👋, I'm Girish Choudhary</h1>
   <h3>Welcome to my Github page.</h3>
 
@@ -17,8 +16,7 @@ Aspiring Data Science and Software Engineer with experience in scalable systems 
 ### 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girishhere&show_icons=true&theme=tokyonight&hide_border=true" alt="Girish's GitHub Stats" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=girishhere&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></div>
 
 <br>
 
@@ -51,8 +49,6 @@ Aspiring Data Science and Software Engineer with experience in scalable systems 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" title="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
 </div>
 
@@ -77,5 +73,5 @@ Aspiring Data Science and Software Engineer with experience in scalable systems 
 ### 👀 Visitor Info
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/girishhere/count.svg" alt="Visitor Count" />
+<img src="https://api.visitorbadge.io/api/visitors?path=girishhere.girishhere&label=Profile%20Views&labelColor=%231a1b27&countColor=%2336BCF7&style=for-the-badge" alt="Visitor Badge" />
 </div>
